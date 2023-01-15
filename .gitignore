@@ -1,0 +1,11 @@
+# Files
+__pycache__
+.env
+.DS_Store
+*_test.py
+config.*
+*.yaml
+.gcloudignore
+
+# Folders
+venv/
